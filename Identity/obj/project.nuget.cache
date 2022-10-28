@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+UBNpO3qo6KjBu82SF4caQtgPPHORw6xY1kJ+eEqAgTJef/dQlpLAhwUYzvDVnJOBaAAFzo9bI1S0NXs/TJdw==",
+  "dgSpecHash": "ELi8p7ikpC30XTLGaUS67sBE2rzGI5cACwAk6zx6DElv+fZEmNL+h8jKPD2M7OdxHvNwu/NzTfNFNvliQqmTMg==",
   "success": true,
-  "projectFilePath": "D:\\Salah\\aaa\\Password-Manager\\Identity\\Identity.csproj",
+  "projectFilePath": "D:\\Salah\\Projects\\Password-Manager\\Identity\\Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salah.mahmoud\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\salah.mahmoud\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

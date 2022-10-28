@@ -53,7 +53,6 @@ namespace PasswordManager.Identity
                     loginResponseViewModel.Success = false;
                     loginResponseViewModel.Message = "Invalid Username or passowrd ";
                 }
-
             }
             catch (Exception e)
             {
